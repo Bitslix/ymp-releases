@@ -1,6 +1,11 @@
 {
-  "version": "0.0.0",
-  "notes": "",
-  "pub_date": "2026-11-18T09:41:33Z",
-  "platforms": {}
+    "version":  "1.0.0",
+    "notes":  "First public release of YMP – YouTube Moderator Panel.\n\nFeatures\n- Real-time live chat with automatic reconnect, @ mentions, emoji bar and search\n- Moderation per message: delete, timeout (5 min) and ban\n- New and known viewers per streamer channel, with membership and subscription status\n- Greetings and farewells in three variants (standard, subscribers, non-subscribers), sent manually or automatically\n- Custom quick actions that send a text to the chat with one click\n- Livestream next to the chat or in a pop-out window, with stream history and favorites\n- Onboarding, backup and restore, English and German interface, dark themes\n- In-app updates: Stable or Beta channel, automatic check every 4–48 hours, one-click install",
+    "pub_date":  "2026-11-18T23:11:25Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY0taUG96aGZEQWJkMFJuczAwUkE5dENFT1dkWEtqSS92ZVgwVDJrdFBldHoxeGd2K2JEUnVVTTE2RlM1dDJNZDJzeDU3aFN2K3VRTlVHQWZHMXZDdEE2bzNUdnhmRlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDQzNDIxCWZpbGU6WW91VHViZSBNb2RlcmF0b3IgUGFuZWxfMS4wLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4wCmlEblZ5clNSM2JlZlluYkpNZitMdEVYMlFrUTIwbDBTd0ZZcFRrcTcxVUdjdWVxcDd5TnQvaCtQTTFmNVpCMTMyemZrN2l5UmdmSERMOVJDUG04RkJBPT0K",
+                                             "url":  "https://github.com/Bitslix/ymp-releases/releases/download/v1.0.0/YMP_1.0.0_windows_x64-setup.exe"
+                                         }
+                  }
 }
